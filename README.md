@@ -17,6 +17,8 @@ NOTE : Currently, glyph calculation is not accurate because original programming
 
 ---
 
+===========
+
 This software is licensed under a Creative Commons Attribution 3.0 Unported License. (http://creativecommons.org/licenses/by/3.0)
 
 Attribution is hereby given to the [Mayan Tzolkin](https://en.wikipedia.org/wiki/Tzolk%27in) base calendar system of the [Mayan Calendar](https://en.wikipedia.org/wiki/Maya_calendar) of the Mayan culture, and to the adaptations of the Mayan Tzolkin calendar of the [DreamSpell](https://en.wikipedia.org/wiki/Dreamspell) system of Jose Arguelles.
