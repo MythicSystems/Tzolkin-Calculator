@@ -5,4 +5,4 @@ The Tzolkin Calculator is a Flash application that enables the placement of a si
 
 Integrates easily into any website.  No coding required. Loads quickly. The stand-alone desktop version (also included for Mac, Windows, and Linux) is also great as a quick and handy reference to Tzolkin calendar time.
 
-See the interactive demo here.
+See the interactive demo [here](http://jalaka.com/tzolkin)
