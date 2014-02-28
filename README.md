@@ -27,7 +27,7 @@ FREE to share, remix, modify, adapt for private or commercial use.
 
 Attribution is REQUIRED to be given to the [Mayan Tzolkin](https://en.wikipedia.org/wiki/Tzolk%27in), and (if including any images or associated work) to the [DreamSpell](https://en.wikipedia.org/wiki/Dreamspell) system of Jose Arguelles (https://en.wikipedia.org/wiki/Dreamspell), or others.
 
-Attribution to [Michael Gaio](http://michaelgaio.com) and [Mythic Systems](http://mythicsystems.com) with links to www.mythicsystems.com and www.michaelgaio.com is appreciated.
+Attribution to [Michael Gaio](http://michaelgaio.com) and [Mythic Systems](http://mythicsystems.com) with links to www.mythicsystems.com and www.michaelgaio.com is not required tho appreciated.
 
 Bitcoin donations can be offered here: 1FT1XcTxigRFy6tF7FETr9ntvMU9Zxzk5i
 
