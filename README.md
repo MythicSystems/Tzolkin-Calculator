@@ -1,4 +1,4 @@
-TzolkinCalc 
+Tzolkin Calculator
 ===========
 
 v2.3
