@@ -9,6 +9,8 @@ Integrates easily into any website.  No coding required. Loads quickly. The stan
 
 See the interactive demo [here](http://jalaka.com/tzolkin)
 
+More at [MythicSystems](http://mythicsystems.com)
+
 ---
 
 NOTE : Currently, glyph calculation is not accurate because original programming was configured only up to 2013.  A simple fix for dates beyond 2013 will be applied soon.
